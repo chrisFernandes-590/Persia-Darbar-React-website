@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="container hero__inner">
         <p className="hero__eyebrow reveal">Est. 1994 · Lahore · Dubai</p>
 
-        <h1 className="hero__title reveal" data-patchwork-id="hero-heading">
+        <h1 className="hero__title reveal" data-patchwork-id="hero-heading" style="color: blue">
           Persia <span>Darbar</span>
         </h1>
 
