@@ -33,6 +33,7 @@ export default function Hero() {
             href="#contact"
             className="btn btn--gold"
             data-patchwork-id="hero-reservation-cta"
+            style="color: blue"
           >
             Book a Table
           </a>
